@@ -23,7 +23,7 @@ module.exports = {
 
   models: {
         connection: 'productionMongo'
-  }
+  },
 
   session: {
         adapter: 'connect-mongo'
